@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+susu_state.json
+*.tmp
